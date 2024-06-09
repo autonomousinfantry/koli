@@ -1,0 +1,14 @@
+.how-it-works {
+    padding: 4rem 1rem;
+    text-align: center;
+  }
+  
+  .steps {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .step {
+    max-width: 200px;
+  }
+  
