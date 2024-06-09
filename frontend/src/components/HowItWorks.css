@@ -1,0 +1,17 @@
+.how-it-works {
+    padding: 20px;
+  }
+  
+  .steps {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .step {
+    background-color: #f1f1f1;
+    padding: 20px;
+    border-radius: 8px;
+    width: 45%;
+    text-align: center;
+  }
+  
