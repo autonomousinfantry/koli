@@ -1,0 +1,22 @@
+.project-list {
+    margin: 2rem 0;
+  }
+  
+  .project-list ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .project-list ul li {
+    margin: 1rem 0;
+  }
+  
+  .new-project-btn {
+    margin-top: 1rem;
+    padding: 0.5rem 1rem;
+    background-color: #ff6600;
+    border: none;
+    color: white;
+    cursor: pointer;
+  }
+  

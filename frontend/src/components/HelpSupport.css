@@ -1,0 +1,13 @@
+.help-support {
+    padding: 2rem;
+  }
+  
+  .help-support .faq ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .help-support .faq ul li {
+    margin-bottom: 1rem;
+  }
+  

@@ -1,0 +1,13 @@
+.project-details {
+    padding: 2rem;
+  }
+  
+  .file-list ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .file-list ul li {
+    margin: 1rem 0;
+  }
+  
